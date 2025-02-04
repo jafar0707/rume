@@ -1,0 +1,15 @@
+i{background-color: yellow;}
+h1{border: solid 2px; text-align: center; border-color: red; background-color: aqua; border-radius: 10px;}
+.one{color: red;}
+h2{color: green;}
+.two{background-color: yellow; text-align: center; color: green;}
+img{
+    width: 900px;height: 500px;
+}
+label{color: green;}
+button{background-color: blue;width: 200px; height: 30px;}
+iframe{width: 1700px;}
+.hhh{width: 900px;}
+table,td,tr{
+    text-align: center;
+}
